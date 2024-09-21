@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap');
 
 .main {
-  background: url("images/Herobg.png") no-repeat;
+  background: url("/images/Herobg.png") no-repeat;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
